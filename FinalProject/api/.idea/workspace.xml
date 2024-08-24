@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8edea856-7bbf-407e-b760-a254a09440ec" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/NewsRecommends.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/newsapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/FinalProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/FinalProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/analysis/ccg.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-36-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-36-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-36-36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-36-41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-38-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-38-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-38-56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-39-56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/ccg.log.2021-05-08_22-40-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/analysis/hvg.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-15_09-24-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-15_09-24-55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-34-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-34-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-34-13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-43-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-43-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-52-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_15-52-09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_17-29-44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_17-29-49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-04-16_17-29-55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-32-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-32-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-32-56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-33-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-33-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-35-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-35-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hvg.log.2021-05-08_22-38-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/analysis/hwg.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-14_22-33-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-14_22-36-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-14_22-36-53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-14_22-39-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-14_22-42-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-14_22-42-53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-15_09-21-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-15_09-21-53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-15_09-24-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-16_15-34-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-16_15-34-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/hwg.log.2021-04-16_15-43-03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/analysis/kwg.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-04-16_17-29-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-04-16_17-29-59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-04-16_17-30-04" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-04-16_17-30-11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-32-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-32-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-32-56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-33-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-33-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-35-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-35-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-35-56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-36-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-36-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-36-11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-38-46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-38-51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-38-56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-39-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/analysis/kwg.log.2021-05-08_22-39-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/data/keywords/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/data/keywords/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/recommend/hlg.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-12_15-56-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-12_16-02-36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-12_16-09-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-12_20-09-38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-13_07-51-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-13_07-56-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-14_17-38-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-14_17-43-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-14_17-48-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/hlg.log.2021-04-14_22-20-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log" beforeDir="false" afterPath="$PROJECT_DIR$/Recommend/recommend/rlg.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-12_15-56-27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-12_16-02-37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-12_16-09-02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-12_20-09-38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-13_07-51-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-13_07-56-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-14_17-38-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-14_17-43-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-14_17-48-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recommend/recommend/rlg.log.2021-04-14_22-20-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/Detaillogs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-29-54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-30-59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-31-06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-31-12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Detaillogs/log.log.2021-05-11_16-31-19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/OperationMysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/OperationMysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/Urllogs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-21-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-21-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-22-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-22-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-23-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-23-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-24-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-24-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-25-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-25-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-26-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-26-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-27-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-27-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-28-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-28-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-29-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-29-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-30-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/Urllogs/log.log.2021-05-11_16-30-31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detailSpider.txt" beforeDir="false" afterPath="$PROJECT_DIR$/detailSpider.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsServer/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsServer/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlSpider.txt" beforeDir="false" afterPath="$PROJECT_DIR$/urlSpider.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../News-Page/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../News-Page/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/Snipaste_2022-04-21_08-49-37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/Snipaste_2022-04-21_08-54-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/e5d6aea9860bb22366283d26fb2eaff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue-admin-template-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue-admin-template-master/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2l06TrznAoWRQav0ZdWQmoh2ISb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/BaiduNetdiskDownload/NewsRecommends/FinalProject/newsapi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="newsapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 0.0.0.0:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="newsapi" type="Python.DjangoServer" factoryName="Django server">
+      <module name="newsapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8edea856-7bbf-407e-b760-a254a09440ec" name="更改" comment="" />
+      <created>1724304657386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724304657386</updated>
+      <workItem from="1724304658402" duration="1950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/newsapi$manage.coverage" NAME="manage 覆盖结果" MODIFIED="1724306380700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
